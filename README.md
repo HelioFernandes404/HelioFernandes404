@@ -3,13 +3,14 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Hi 👋,
+  Hi 👋,<br> 
+  <br>
 I'm Hélio, a QA | Developer 👨‍💻 who is passionate about Java, Test automation, JavaScript, Docker, technologies and its entire ecosystem.
 
-🔭 I’m currently working on Developer & QA engineer
-🌱 I’m currently learning DevOps CI/CD, Flutter and improve my knowlege in NodeJs
-💬 Ask me about: Tech, Test automation, CI/CD with AWS Devops and Scrum.
-⚡ Technologies: Docker, Angular, Flutter, Node, Java and Kotlin.
+🔭 I’m currently working on Developer & QA engineer <br>
+🌱 I’m currently learning DevOps CI/CD, Flutter and improve my knowlege in NodeJs <br>
+💬 Ask me about: Tech, Test automation, CI/CD with AWS Devops and Scrum. <br>
+⚡ Technologies: Docker, Angular, Flutter, Node, Java and Kotlin. <br>
 </p>
 
 <p align="left">
