@@ -3,16 +3,13 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Olá, meu nome é Hélio e sou apaixonado por tecnologia. Atualmente, estou buscando em me tornar um engenheiro de software. <br> <strong> No momento com foco em desenvolvimento web</strong>.<br>
-  por hora estou estudando tecnologias de front-end e também estou em busca de um emprego.
-</p>
+  Hi 👋,
+I'm Hélio, a QA | Developer 👨‍💻 who is passionate about Java, Test automation, JavaScript, Docker, technologies and its entire ecosystem.
 
-<p align="left">
-  🦄 Linguagens: <strong>Java, React</strong>
-</p>
-
-<p align="left">
-  💼 Ferramentas: <strong>VScode(neonvim), Intellij, Figma</strong>
+🔭 I’m currently working on Developer & QA engineer
+🌱 I’m currently learning DevOps CI/CD, Flutter and improve my knowlege in NodeJs
+💬 Ask me about: Tech, Test automation, CI/CD with AWS Devops and Scrum.
+⚡ Technologies: Docker, Angular, Flutter, Node, Java and Kotlin.
 </p>
 
 <p align="left">
@@ -45,4 +42,5 @@
 [![](https://visitcount.itsvg.in/api?id=HelioAnacronista&icon=5&color=12)](https://visitcount.itsvg.in)
 
 </div>
+"The technology move the world! By Steve Jobs"
 <!-- lembre-se que algumas verdades nesse mundo são mentiras bem contadas -->
