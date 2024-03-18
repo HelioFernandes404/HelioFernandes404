@@ -26,17 +26,10 @@ I'm Hélio, a QA | Developer 👨‍💻 who is passionate about Java, Test auto
 # 📊 GitHub Stats:
 
 
-
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=HelioAnacronista&theme=dark&hide_border=false)<br/>
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=HelioAnacronista&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-readme-streak-stats.herokuapp.com/?user=HelioFernandes404&theme=dark&hide_border=false)<br/>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=HelioAnacronista&icon=5&color=12)](https://visitcount.itsvg.in)
 
 </div>
 "The technology move the world! By Steve Jobs"
