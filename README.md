@@ -5,7 +5,7 @@
 <p align="left"> 
   Hi 👋,<br> 
   <br>
-I'm Hélio, a QA | Developer 👨‍💻 who is passionate about Java, Test automation, JavaScript, Docker, technologies and its entire ecosystem.
+I'm Hélio, a Backend Developer at Creath Tech 👨‍💻 who is passionate about Java, Test automation, JavaScript, Docker, technologies and its entire ecosystem.
 
 🔭 I’m currently working on Developer & QA engineer <br>
 🌱 I’m currently learning DevOps CI/CD, Flutter and improve my knowlege in NodeJs <br>
