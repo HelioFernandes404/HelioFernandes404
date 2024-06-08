@@ -10,7 +10,7 @@ I'm Hélio, a Backend Developer at Creath Tech 👨‍💻 who is passionate abo
 🔭 I’m currently working on Developer & QA engineer <br>
 🌱 I’m currently learning DevOps CI/CD, Flutter and improve my knowlege in NodeJs <br>
 💬 Ask me about: Tech, Test automation, CI/CD with AWS Devops and Scrum. <br>
-⚡ Technologies: Docker, Angular, Flutter, Node, Java and Kotlin. <br>
+⚡ Technologies: Docker, Angular, C# , Node, Java and asp.net. <br>
 </p>
 
 <p align="left">
