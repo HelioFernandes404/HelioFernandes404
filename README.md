@@ -33,4 +33,4 @@ I'm Hélio, a Backend Developer at Creath Tech 👨‍💻 who is passionate abo
 
 </div>
 "The technology move the world! By Steve Jobs"
-<!-- lembre-se que algumas verdades nesse mundo são mentiras bem contadas -->
+
