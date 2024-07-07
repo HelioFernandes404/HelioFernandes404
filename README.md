@@ -5,12 +5,12 @@
 <p align="left"> 
   Hi 👋,<br> 
   <br>
-I'm Hélio, a Backend Developer at Creath Tech 👨‍💻 who is passionate about Java ASP.NET CORE, JavaScript, Docker, technologies and its entire ecosystem.
+I'm Hélio, a Backend Developer at Creath Tech 👨‍💻 who is passionate about .NET, Java, AWS, Docker e technologies and its entire ecosystem.
 
-🔭 I’m currently working on Developer & QA engineer <br>
-🌱 I’m currently learning DevOps CI/CD, Flutter and improve my knowlege in NodeJs <br>
+🔭 I’m currently working on Developer<br>
+🌱 I’m currently learning DevOps CI/CD <br>
 💬 Ask me about: Tech, Test automation, CI/CD with AWS Devops and Scrum. <br>
-⚡ Technologies: Docker, Angular, C# , Node, Java and asp.net. <br>
+⚡ Technologies: Docker, Angular, C#, Java and .NET <br>
 </p>
 
 <p align="left">
