@@ -3,12 +3,12 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left">
-  Fala! Eu sou o Hélio, desenvolvedor backend na Creath Tech 👨‍💻 e entusiasta do ecossistema tecnológico. Minha expertise passa por tecnologias como .NET, Java, AWS e Docker, sempre com um olhar atento para soluções que realmente transformam negócios e entregam valor.
+  Fala! Eu sou o Hélio, desenvolvedor backend na Creath Tech 👨‍💻 e entusiasta do ecossistema tecnológico. Minha expertise passa por tecnologias como .NET, Nodejs e AWS, sempre com um olhar atento para soluções que realmente transformam negócios e entregam valor.
 
 🔭 Atualmente, trabalho em projetos que unem tecnologia de ponta e inovação.<br>
 🌱 Mergulhando em DevOps, CI/CD e boas práticas de automação.<br>
 💬 Adoro trocar ideias sobre tecnologia, automação de testes e frameworks ágeis como Scrum.<br>
-⚡ Stack: Docker, Angular, C#, Java e .NET.<br>
+⚡ Stack: .NET e Nodejs<br>
 </p>
 
 <p align="left">
