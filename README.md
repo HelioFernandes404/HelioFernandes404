@@ -9,6 +9,7 @@
 🌱 Mergulhando em DevOps, CI/CD e boas práticas de automação.<br>
 💬 Adoro trocar ideias sobre tecnologia, automação de testes e frameworks ágeis como Scrum.<br>
 ⚡ Stack: .NET e Nodejs<br>
+> "A tecnologia move o mundo!" — Steve Jobs
 </p>
 
 <p align="left">
@@ -32,5 +33,3 @@
 
 
 </div>
-
-<p align="center">*"A tecnologia move o mundo!" — Steve Jobs*</p>
