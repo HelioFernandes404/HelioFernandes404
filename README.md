@@ -38,7 +38,3 @@
 </div>
 
 <p align="center">*"A tecnologia move o mundo!" — Steve Jobs*</p>
-
---- 
-
-O que achou? Tá alinhado com o tom que queria? Posso ajustar mais alguma coisa!
