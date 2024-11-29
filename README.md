@@ -19,11 +19,9 @@
   💌 Quer trocar uma ideia ou conectar? Me chama nas redes sociais ⤵️
 </p>
 
----
-
-## 🌐 Redes Sociais:
+### 🌐 Redes Sociais:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/heliofernandes/)  
----
+
 
 <div align="center">
 
@@ -31,7 +29,7 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=HelioFernandes404&theme=dark&hide_border=false)<br/>
 
----
+
 
 </div>
 
