@@ -3,7 +3,7 @@
 
 <p align="left">
 Hey! I'm Hélio, a devops engineer at System Frame & Creath Tech.
-I work mainly with DevOps, Pyhthon to scripts etc... and AWS, Google, always focused on building solutions that drive real business value.
+I work mainly with DevOps, Python to scripts etc... and AWS, Google, always focused on building solutions that drive real business value.
 
 <br><br>
 🔭 Currently working on cutting-edge, innovation-driven projects.<br>
