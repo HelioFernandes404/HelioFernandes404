@@ -6,7 +6,7 @@ Hey! I'm Hélio, a backend developer at Creath Tech/ Systemframe 👨‍💻 wit
 <br><br>
 🔭 Currently working on cutting-edge, innovation-driven projects.<br>
 🌱 Exploring DevOps, CI/CD, and automation best practices.<br>
-💬 Love chatting about tech, test automation, and agile frameworks like Scrum.<br>
+💬 Love chatting about tech, bike.<br>
 ⚡ Stack: .NET and Node.js<br>
 > "Technology is what drives the world." — Steve Jobs
 </p>
