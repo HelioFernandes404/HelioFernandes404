@@ -7,7 +7,7 @@ I work mainly with DevOps, Python to scripts etc... and AWS, Google, always focu
 <br><br>
 🔭 Currently working on Helm, Ansible, SLA.<br>
 🌱 Exploring DevOps, CI/CD, and automation best practices.<br>
-💬 Love chatting about tech, bike.<br>
+💬 Love chatting about Tech, Bike, Weight training, Foods.<br>
 ⚡ Stack: .NET and Node.js<br>
 > "Technology is what drives the world." — Steve Jobs
 </p>
