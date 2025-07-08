@@ -2,11 +2,11 @@
 # About Me
 
 <p align="left">
-Hey! 
+Hey! <br> 
 I'm Hélio, a devops engineer at System Frame & Creath Tech.
 I work mainly with DevOps, Python to scripts etc... and AWS, Google, always focused on building solutions that drive real business value.
 <br><br>
-🧭 Currently working on Helm, Ansible, SLA.<br>
+🧭 Currently working on Python, Helm, Ansible and SLA.<br>
 🧩 Exploring DevOps, CI/CD, and automation best practices.<br>
 💬 Love chatting about Tech, Bike, Weight training, Foods.<br>
 💡 My goal? Build scalable, functional solutions that solve problems and create new opportunities.<br>
