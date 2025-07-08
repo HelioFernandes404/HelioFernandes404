@@ -12,12 +12,9 @@ I work mainly with DevOps, Python to scripts etc... and AWS, Google, always focu
 </p>
 
 <p align="left">
-💡 My goal? Build scalable, functional solutions that solve problems and create new opportunities.
+💡 I'm driven to build scalable, functional solutions that solve real problems and unlock new opportunities — and I'm always open to connect or chat. Feel free to reach out on social media ⤵️
 </p>
 
-<p align="left">
-💌 Want to connect or chat? Hit me up on social media ⤵️
-</p>
 
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/heliofernandes/)
