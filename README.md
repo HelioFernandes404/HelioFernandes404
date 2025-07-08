@@ -9,10 +9,11 @@ I work mainly with DevOps, Python to scripts etc... and AWS, Google, always focu
 🧭 Currently working on Helm, Ansible, SLA.<br>
 🧩 Exploring DevOps, CI/CD, and automation best practices.<br>
 💬 Love chatting about Tech, Bike, Weight training, Foods.<br>
+💡 My goal? Build scalable, functional solutions that solve problems and create new opportunities.<br>
 </p>
 
 <p align="left">
-💡 I'm driven to build scalable, functional solutions that solve real problems and unlock new opportunities — and I'm always open to connect or chat. Feel free to reach out on social media ⤵️
+💌 Want to connect or chat? Hit me up on social media ⤵️
 </p>
 
 
