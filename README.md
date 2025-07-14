@@ -8,7 +8,7 @@ I work mainly with DevOps, Python to scripts etc... and AWS, Google, always focu
 <br><br>
 🧭 Currently working on Python, Helm, Ansible and SLA.<br>
 🧩 Exploring DevOps, CI/CD, and automation best practices.<br>
-💬 Love chatting about Tech, Bike, Weight training, Foods.<br>
+💬 I love chatting about tech discussions, bike hacks and routes, gym routines, food experiments, and travel hacks. Always down to explore new stuff.<br>
 💡 My goal? Build scalable, functional solutions that solve problems and create new opportunities.<br>
 </p>
 
