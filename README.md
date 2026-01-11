@@ -6,7 +6,7 @@ Hey! <br>
 I'm Hélio, a DevOps Developer at System Frame & Creath Tech.
 I work mainly with DevOps, Python to scripts etc... and AWS, Google, always focused on building solutions that drive real business value.
 <br><br>
-🧭 Currently working on Python, Helm, Ansible and SLA.<br>
+🧭 Currently working on Python, Helm, Ansible and IA<br>
 🧩 Exploring DevOps, CI/CD, and Development best practices.<br>
 💬 I love chatting about tech discussions, bike hacks and routes, gym routines, food experiments, and travel hacks. Always down to explore new stuff.<br>
 💡 My goal? Build scalable, functional solutions that solve problems and create new opportunities.<br>
