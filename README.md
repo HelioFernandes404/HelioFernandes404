@@ -10,7 +10,7 @@
 ```python
 class Helio:
     role        = "Developer @ System Frame"
-    stack       = ["Python", "Helm", "Ansible", "AWS", "GCP", "CI/CD"]
+    stack       = ["Python", "Kubernetes", "Helm-Charts", "Ansible", "AWS", "CI/CD"]
     focus       = "Building scalable solutions that drive real business value"
     exploring   = ["DevOps best practices", "AI integration", "IaC"]
     fun         = ["🚴 Bike routes", "🏋️ Gym", "🍳 Food experiments", "✈️ Travel hacks"]
@@ -36,9 +36,6 @@ class Helio:
 ### 📊 GitHub Stats
 
 <div align="center">
-
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=HelioFernandes404&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HelioFernandes404&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
