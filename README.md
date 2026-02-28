@@ -33,3 +33,6 @@ I design and ship systems that are practical, scalable, and easy to operate.
 ## Let's Connect
 
 - GitHub: [@HelioFernandes404](https://github.com/HelioFernandes404)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=HelioFernandes404&theme=dark&hide_border=true&border_radius=5&card_width=502)](https://git.io/streak-stats)
+
